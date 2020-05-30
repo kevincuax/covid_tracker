@@ -1,6 +1,8 @@
 Covid tracker made with Charts.js, React, Material-UI, React hooks, and mathdro api.
+
 API used: https://covid19.mathdro.id/api
 
+currently only hosted locally, to be deployed later
 # How to use:
 
 ```
