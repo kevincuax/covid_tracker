@@ -6,6 +6,7 @@ currently only hosted locally, to be deployed later
 # How to use:
 
 ```
+clone repository
 cd into project directory
 npm install
 cd src
